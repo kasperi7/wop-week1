@@ -1,3 +1,3 @@
 'use strict'
 
-console.log('dis is javascript');
+console.log('this is javascript');
